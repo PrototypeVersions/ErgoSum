@@ -8,6 +8,14 @@ The following morning he goes to the interview.
 
 A work of literary speculative fiction about ambition, freedom, friendship, love, and the difference between understanding a person and deciding on their behalf.
 
+## Ebook reader
+
+[Open the ebook on GitHub Pages](https://prototypeversions.github.io/ErgoSum/)
+
+The reader includes a custom cover, six color themes, four typefaces, adjustable font size, line spacing and reading width, a chapter index, and browser-local reading position and preferences.
+
+**Publishing:** In the repository’s [Pages settings](https://github.com/PrototypeVersions/ErgoSum/settings/pages), choose **Deploy from a branch**, select **main** and **/ (root)**, then save. The reader is served directly from the root of the repository; no build step or external service is required. The manuscript remains unchanged.
+
 ## Read the manuscript
 
 **Part One**
