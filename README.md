@@ -14,5 +14,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 
 1. [The Interview](manuscript/01-the-interview.md)
 2. [The People Who Say No](manuscript/02-the-people-who-say-no.md)
+3. [The Things We Keep](manuscript/03-the-things-we-keep.md)
+4. [The Unobserved Life](manuscript/04-the-unobserved-life.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
