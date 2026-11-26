@@ -56,5 +56,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 36. [The Last Page](manuscript/36-the-last-page.md)
 37. [The People Who Came](manuscript/37-the-people-who-came.md)
 38. [The People Who Left](manuscript/38-the-people-who-left.md)
+39. [The Inheritance](manuscript/39-the-inheritance.md)
+40. [The Question in the Margin](manuscript/40-the-question-in-the-margin.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
