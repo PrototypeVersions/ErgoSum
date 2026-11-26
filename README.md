@@ -54,5 +54,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 34. [The Missing Alternative](manuscript/34-the-missing-alternative.md)
 35. [The Life on the Other Side](manuscript/35-the-life-on-the-other-side.md)
 36. [The Last Page](manuscript/36-the-last-page.md)
+37. [The People Who Came](manuscript/37-the-people-who-came.md)
+38. [The People Who Left](manuscript/38-the-people-who-left.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
