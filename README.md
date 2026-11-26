@@ -20,5 +20,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 6. [Thursday Night](manuscript/06-thursday-night.md)
 7. [A Place to Go](manuscript/07-a-place-to-go.md)
 8. [A Small Impossibility](manuscript/08-a-small-impossibility.md)
+9. [The House on Kingsley](manuscript/09-the-house-on-kingsley.md)
+10. [The Room in Cambridge](manuscript/10-the-room-in-cambridge.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
