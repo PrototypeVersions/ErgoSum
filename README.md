@@ -25,4 +25,9 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 11. [An Extra Chair](manuscript/11-an-extra-chair.md)
 12. [The Open Door](manuscript/12-the-open-door.md)
 
+**Part Two**
+
+13. [The Arrivals Hall](manuscript/13-the-arrivals-hall.md)
+14. [A Very Good Year](manuscript/14-a-very-good-year.md)
+
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
