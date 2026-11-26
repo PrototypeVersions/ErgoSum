@@ -29,5 +29,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 
 13. [The Arrivals Hall](manuscript/13-the-arrivals-hall.md)
 14. [A Very Good Year](manuscript/14-a-very-good-year.md)
+15. [The Price of a Question](manuscript/15-the-price-of-a-question.md)
+16. [The Long Table](manuscript/16-the-long-table.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
