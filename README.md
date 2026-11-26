@@ -63,4 +63,9 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 43. [A Very Inconvenient Result](manuscript/43-a-very-inconvenient-result.md)
 44. [The Name on the Door](manuscript/44-the-name-on-the-door.md)
 
+**Part Four**
+
+45. [Another Proof](manuscript/45-another-proof.md)
+46. [The First Person](manuscript/46-the-first-person.md)
+
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
