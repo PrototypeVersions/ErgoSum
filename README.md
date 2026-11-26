@@ -50,5 +50,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 30. [The Island of Other People](manuscript/30-the-island-of-other-people.md)
 31. [The Water Under the Bridge](manuscript/31-the-water-under-the-bridge.md)
 32. [The Second Interview](manuscript/32-the-second-interview.md)
+33. [The Vote](manuscript/33-the-vote.md)
+34. [The Missing Alternative](manuscript/34-the-missing-alternative.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
