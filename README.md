@@ -1,6 +1,6 @@
 # ERGO SUM
 
-*A novel in progress*
+*A novel — complete first draft*
 
 Adrian Vale, a philosopher adrift in Dallas, receives a transcript of a job interview that has never taken place. In it, he turns down the sort of appointment he has wanted for years.
 
@@ -69,5 +69,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 46. [The First Person](manuscript/46-the-first-person.md)
 47. [The Uses of a Life](manuscript/47-the-uses-of-a-life.md)
 48. [The Road to the Sea](manuscript/48-the-road-to-the-sea.md)
+49. [The Actual Record](manuscript/49-the-actual-record.md)
+50. [Ergo Sum](manuscript/50-ergo-sum.md)
 
-The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
+The complete first draft comprises fifty chapters in four parts. It has not yet undergone a comprehensive editorial revision. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
