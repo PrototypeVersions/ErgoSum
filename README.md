@@ -22,5 +22,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 8. [A Small Impossibility](manuscript/08-a-small-impossibility.md)
 9. [The House on Kingsley](manuscript/09-the-house-on-kingsley.md)
 10. [The Room in Cambridge](manuscript/10-the-room-in-cambridge.md)
+11. [An Extra Chair](manuscript/11-an-extra-chair.md)
+12. [The Open Door](manuscript/12-the-open-door.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
