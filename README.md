@@ -33,5 +33,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 16. [The Long Table](manuscript/16-the-long-table.md)
 17. [The Other Side of Zero](manuscript/17-the-other-side-of-zero.md)
 18. [The Man on the Screen](manuscript/18-the-man-on-the-screen.md)
+19. [The Distance Between Things](manuscript/19-the-distance-between-things.md)
+20. [The Unnecessary Thing](manuscript/20-the-unnecessary-thing.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
