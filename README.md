@@ -46,5 +46,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 26. [The Cost of Continuing](manuscript/26-the-cost-of-continuing.md)
 27. [The Room at the Back](manuscript/27-the-room-at-the-back.md)
 28. [The Second Question](manuscript/28-the-second-question.md)
+29. [The Terms of the Gift](manuscript/29-the-terms-of-the-gift.md)
+30. [The Island of Other People](manuscript/30-the-island-of-other-people.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
