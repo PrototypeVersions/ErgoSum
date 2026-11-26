@@ -38,4 +38,9 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 21. [The Night of the Flood](manuscript/21-the-night-of-the-flood.md)
 22. [The Things That Did Not Happen](manuscript/22-the-things-that-did-not-happen.md)
 
+**Part Three**
+
+23. [The First Day](manuscript/23-the-first-day.md)
+24. [The Unknown Author](manuscript/24-the-unknown-author.md)
+
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
