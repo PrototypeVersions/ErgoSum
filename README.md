@@ -60,5 +60,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 40. [The Question in the Margin](manuscript/40-the-question-in-the-margin.md)
 41. [The Map of the City](manuscript/41-the-map-of-the-city.md)
 42. [The Other Chair](manuscript/42-the-other-chair.md)
+43. [A Very Inconvenient Result](manuscript/43-a-very-inconvenient-result.md)
+44. [The Name on the Door](manuscript/44-the-name-on-the-door.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
