@@ -58,5 +58,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 38. [The People Who Left](manuscript/38-the-people-who-left.md)
 39. [The Inheritance](manuscript/39-the-inheritance.md)
 40. [The Question in the Margin](manuscript/40-the-question-in-the-margin.md)
+41. [The Map of the City](manuscript/41-the-map-of-the-city.md)
+42. [The Other Chair](manuscript/42-the-other-chair.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
