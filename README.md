@@ -44,5 +44,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 24. [The Unknown Author](manuscript/24-the-unknown-author.md)
 25. [The Letter in the Box](manuscript/25-the-letter-in-the-box.md)
 26. [The Cost of Continuing](manuscript/26-the-cost-of-continuing.md)
+27. [The Room at the Back](manuscript/27-the-room-at-the-back.md)
+28. [The Second Question](manuscript/28-the-second-question.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
