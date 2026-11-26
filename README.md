@@ -67,5 +67,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 
 45. [Another Proof](manuscript/45-another-proof.md)
 46. [The First Person](manuscript/46-the-first-person.md)
+47. [The Uses of a Life](manuscript/47-the-uses-of-a-life.md)
+48. [The Road to the Sea](manuscript/48-the-road-to-the-sea.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
