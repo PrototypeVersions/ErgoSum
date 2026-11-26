@@ -35,5 +35,7 @@ A work of literary speculative fiction about ambition, freedom, friendship, love
 18. [The Man on the Screen](manuscript/18-the-man-on-the-screen.md)
 19. [The Distance Between Things](manuscript/19-the-distance-between-things.md)
 20. [The Unnecessary Thing](manuscript/20-the-unnecessary-thing.md)
+21. [The Night of the Flood](manuscript/21-the-night-of-the-flood.md)
+22. [The Things That Did Not Happen](manuscript/22-the-things-that-did-not-happen.md)
 
 The manuscript is an early draft, not a completed novel. Characters, organizations, and events are fictional; real geographical settings are used imaginatively.
